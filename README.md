@@ -1,1 +1,1 @@
-# BattleShip-Console
+# Battle Ship
